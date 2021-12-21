@@ -1,0 +1,72 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+img {
+  width: 70%;
+  height: 40%;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  text-align: center;
+  background-image: url= ("./ITwomam.jpg");
+  background-color: #bdb2b2;
+  height: 100%;
+}
+
+.topo {
+  position: relative;
+  float: left;
+  width: 250px;
+  height: 535px;
+  background: #6a6a6a;
+  padding: 0 0 17px 17px;
+}
+
+.dados {
+  font-size: 12px;
+}
+
+.educa {
+  background-color: rgb(153, 160, 157);
+  padding: 28px;
+}
+
+.cargos {
+  background-color: rgb(58, 87, 75);
+  padding: 28px;
+}
+
+.experiencias {
+  background-color: rgb(87, 90, 89);
+  padding: 28px;
+}
+
+footer {
+  background-color: #6a6a6a;
+  padding: 2px;
+  text-align: right;
+}
+
+a {
+  color: white;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+#map {
+  display: none;
+}
+
+#viewMap {
+  color: black;
+}
